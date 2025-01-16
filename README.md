@@ -15,11 +15,14 @@ Building up a network of SMS sending Services, for everyone to use in fair use p
 ## monthly
   10 Euros SIM Card cost
 ## one time cost
+  60 Euros modem stick
+## develop cost
   3750 Euro software writting cost 
     (one month worth of coding, 160 Hours, 15,62€/h net)
 
 ## balance sheet
   01.2025
+  - 60,00 ; Modem stick
   - 10,00 ; SIM Card Cost
   - 150,00 ; 10 Hours.
 
