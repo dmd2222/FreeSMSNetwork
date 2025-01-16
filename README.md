@@ -11,3 +11,17 @@ Building up a network of SMS sending Services, for everyone to use in fair use p
 - Getting Beta running
 - Publish Beta
 
+# Funding
+## monthly
+  10 Euros SIM Card cost
+## one time cost
+  3750 Euro software writting cost 
+    (one month worth of coding, 160 Hours, 15,62€/h net)
+
+# balance sheet
+  01.2025
+  - 10,00 ; SIM Card Cost
+  - 150,00 ; 10 Hours.
+
+# https://www.patreon.com
+https://www.patreon.com/marcoschwald
