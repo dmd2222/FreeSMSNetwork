@@ -23,5 +23,5 @@ Building up a network of SMS sending Services, for everyone to use in fair use p
   - 10,00 ; SIM Card Cost
   - 150,00 ; 10 Hours.
 
-# https://www.patreon.com
+# Patreon.com
 https://www.patreon.com/marcoschwald
