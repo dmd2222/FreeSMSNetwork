@@ -18,10 +18,10 @@ Building up a network of SMS sending Services, for everyone to use in fair use p
   3750 Euro software writting cost 
     (one month worth of coding, 160 Hours, 15,62€/h net)
 
-# balance sheet
+## balance sheet
   01.2025
   - 10,00 ; SIM Card Cost
   - 150,00 ; 10 Hours.
 
-# Patreon.com
+## Patreon.com
 https://www.patreon.com/marcoschwald
